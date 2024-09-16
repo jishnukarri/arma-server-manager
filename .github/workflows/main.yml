@@ -39,3 +39,4 @@ jobs:
       with:
         name: my-app-jar
         path: build/libs/*.jar
+
